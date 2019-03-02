@@ -10,6 +10,7 @@ import os
 
 # env variables
 twilio_number = os.environ['twilio_number']
+account_sid = os.environ['account_sid']
 auth_token = os.environ['auth_token']
 giphy_key = os.environ['giphy_key']
 first_friend_number = os.environ['first_friend_number']
